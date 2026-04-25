@@ -1,1 +1,1 @@
-![Alt Text](path/to/animation.gif)
+![My Animation](animation.gif)
