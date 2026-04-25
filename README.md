@@ -1,1 +1,1 @@
-![My Animation](animation.gif)
+<img src="animation.gif" width="100%">
