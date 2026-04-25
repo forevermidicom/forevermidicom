@@ -1,1 +1,1 @@
-![GIF](./animation.gif)
+<img src="./animation.gif" width="400"/>
