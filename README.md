@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./animation.gif" width="1000"/>
-</p>
 <pre>
                                                                                                     
                                                                                                     
@@ -130,4 +127,7 @@
          +****++*++*++++++++++++++++++++++++++++++++++++++++*************************      
 
     </pre>
+    <p align="center">
+  <img src="./animation.gif" width="1000"/>
+</p>
 
