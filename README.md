@@ -1,1 +1,1 @@
-![Animation](animation.gif)
+![GIF](./animation.gif)
