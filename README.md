@@ -1,1 +1,1 @@
-![Animation](https://githubusercontent.com)
+![](animation.gif)
